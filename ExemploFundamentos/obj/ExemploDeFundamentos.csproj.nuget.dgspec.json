@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj": {}
+    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj": {
+    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj",
         "projectName": "ExemploDeFundamentos",
-        "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj",
+        "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploDeFundamentos.csproj",
         "packagesPath": "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joao Victor Gregorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
