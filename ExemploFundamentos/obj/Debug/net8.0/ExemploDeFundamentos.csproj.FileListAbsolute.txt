@@ -1,0 +1,14 @@
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploDeFundamentos.exe
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploDeFundamentos.deps.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploDeFundamentos.runtimeconfig.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploDeFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\bin\Debug\net8.0\ExemploDeFundamentos.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.AssemblyInfoInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.AssemblyInfo.cs
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploDeFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ExemploDeFundamentos.genruntimeconfig.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploDeFundamentos.dll
