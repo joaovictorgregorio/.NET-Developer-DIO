@@ -1,11 +1,5 @@
 ﻿using ExemploFundamentos.Models;
 
-string opcao;
-
-while (true) {
-    Console
-}
-
 /* Interrompendo o fluxo de execução
 
 int numero = 5;
