@@ -1,6 +1,46 @@
 ﻿using System.Reflection.Metadata;
 using ExemploFundamentos.Common.Models;
 
+/* TRABALHANDO COM LISTAS
+
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("SC");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
+
+listaString.Add("RJ");
+listaString.Add("PA");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
+
+listaString.Remove("BA");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade {listaString.Capacity}");
+
+Console.WriteLine($"Usando FOR...");
+for(int i = 0; i < listaString.Count; i++) {
+    Thread.Sleep(200);
+    Console.WriteLine($"Posição n°{i} - {listaString[i]}");
+}
+
+Console.WriteLine("");
+
+Console.WriteLine($"Usando FOREACH...");
+// O foreach pega os elementos da listaString e transfere para a variável do tipo string chamada item.
+int iForeach = 0;
+foreach(string item in listaString) {
+    Thread.Sleep(200);
+    Console.WriteLine($"Posição n°{iForeach} - {item}");
+    iForeach++;
+}
+*/
+
+/* ESTUDOS SOBRE ARRAY
+
 int[] arrayInteiros = new int[4];
 
 arrayInteiros[0] = 99;
@@ -12,22 +52,23 @@ arrayInteiros[3] = 9999;
 int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
 Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
 
-/* Maneira de redimensionar o Array já em tempo de execução, quando não temos como mexer no código original. O Resize vai criar um novo Array com a capacidade que passamos, neste caso, vezes 2 do tamanho do original, ou seja, ele realiza uma cópia da referência e junta com a nova capacidade solicitada.
-Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2); */
+// Maneira de redimensionar o Array já em tempo de execução, quando não temos como mexer no código original. O Resize vai criar um novo Array com a capacidade que passamos, neste caso, vezes 2 do tamanho do original, ou seja, ele realiza uma cópia da referência e junta com a nova capacidade solicitada.
+Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
 for(int contador = 0; contador < arrayInteiros.Length; contador++) {
     Thread.Sleep(200);
     Console.WriteLine($"Posição N°{contador} - {arrayInteiros[contador]}");
 }
 
-/* Console.WriteLine("");
+Console.WriteLine("");
 
 int contadorForeach = 0;
 foreach(int valor in arrayInteiros) {
     Thread.Sleep(200);
     Console.WriteLine($"Posição n° {contadorForeach} - {valor}");
     contadorForeach++;
-} */
+}
+*/
 
 /* Interrompendo o fluxo de execução
 
