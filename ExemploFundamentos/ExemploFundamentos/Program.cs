@@ -1,6 +1,7 @@
 ﻿using System.Reflection.Metadata;
 using ExemploFundamentos.Common.Models;
 
+
 /* TRABALHANDO COM LISTAS
 
 List<string> listaString = new List<string>();
