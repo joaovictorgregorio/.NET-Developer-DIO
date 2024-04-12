@@ -4,6 +4,7 @@ Console.Clear();
 
 Pessoa pessoaUm = new Pessoa();
 
-pessoaUm.Nome = "João Victor Gregório da Silva";
+pessoaUm.Nome = "João Victor";
+pessoaUm.Sobrenome = "Gregório";
 pessoaUm.Idade = 24;
 pessoaUm.Apresentar();
