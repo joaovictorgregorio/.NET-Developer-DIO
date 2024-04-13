@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace ExemploExplorando.Models {
     public class Curso {
+        public Curso(string nomedocurso) {
+            NomeDoCurso = nomedocurso;
+        }
         public string NomeDoCurso { get; set; }
         public List<Pessoa> Alunos { get; set; }
 
@@ -23,7 +26,7 @@ namespace ExemploExplorando.Models {
         }
 
         public void ListarAlunos() {
-            Console.WriteLine($"Alunos do curso de: {NomeDoCurso}\n");
+            Console.WriteLine($"\nAlunos do curso de: {NomeDoCurso}\n");
             foreach(Pessoa aluno in Alunos) {
                 Console.WriteLine(aluno.NomeCompleto);
             }
