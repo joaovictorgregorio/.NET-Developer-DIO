@@ -1,7 +1,54 @@
-﻿using ExemploExplorando.Models;
+﻿using System.Globalization;
+using System.Security.AccessControl;
+using ExemploExplorando.Models;
+using static System.Console;
+
+Clear();
+
+string dataString = "2024-12-14 19:41";
+
+// Formato para evitar o encerramento do programa, caso os dados da data seja passado de forma incorreta.
+bool sucesso = DateTime.TryParseExact(
+    dataString, "yyyy-MM-dd HH:mm", 
+    CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data);
+
+    if (sucesso) {
+        WriteLine($"Conversão com sucesso! Data: {data}");
+    }
+    else {
+        WriteLine($"{dataString} não é uma data válida!");
+    }
+
+WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
+WriteLine(data.ToShortTimeString());
+WriteLine(data.ToShortDateString());
+WriteLine(data);
+/*
+// Uma forma de usar a cultura do país em todo o sistema.
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
 Console.Clear();
 
+decimal valorMonetario = 1582.40m;
+
+// Significa que quero formatar a string para uma moeda. Segue a cultura do meu sistema/máquina.
+Console.WriteLine($"{valorMonetario:C}");
+Console.WriteLine(valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")));
+// Representando quantidade de casas decimais, neste caso 3.
+Console.WriteLine(valorMonetario.ToString("C3"));
+Console.WriteLine(valorMonetario.ToString("N0"));
+*/
+
+/*
+string numero1 = "10";
+string numero2 = "20";
+
+string resultado = numero1 + numero2;
+
+Console.WriteLine(resultado);
+*/
+
+/*
 Pessoa pessoaUm = new Pessoa(nome: "João Victor", sobrenome: "Gregório");
 // pessoaUm.Nome = "João Victor";
 // pessoaUm.Sobrenome = "Gregório";
@@ -25,3 +72,4 @@ cursoDeEspanhol.Alunos = new List<Pessoa>();
 cursoDeEspanhol.AdicionarAluno(pessoaTres);
 cursoDeEspanhol.AdicionarAluno(pessoaQuatro);
 cursoDeEspanhol.ListarAlunos();
+*/
