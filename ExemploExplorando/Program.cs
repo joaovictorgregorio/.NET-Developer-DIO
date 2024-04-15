@@ -1,10 +1,56 @@
 ﻿using System.Globalization;
 using System.Security.AccessControl;
 using ExemploExplorando.Models;
-using static System.Console;
 
-Clear();
+new ExemploExcecao().Metodo1();
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+// Try = tente fazer alguma coisa.
+try {
+    Console.Clear();
+    string[] linhas = File.ReadAllLines("Arquivos/pasta/arquivoLeitura.txt");
+
+    foreach(string linha in linhas) {
+        Console.WriteLine(linha);
+    }
+}
+catch(FileNotFoundException erro) {
+    Console.ForegroundColor = ConsoleColor.DarkBlue;
+    Console.WriteLine($"Erro na leitura do arquivo. Arquivo não encontrado! {erro.Message}");
+}
+catch(DirectoryNotFoundException erro) {
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine($"Erro na leitura do arquivo. Caminho da pasta não encontrado! {erro.Message}");
+}
+// catch = pegar/obter. Usado para fazer tratamentos de erros.
+catch(Exception erro) {
+    Console.WriteLine($"Erro genérico. {erro.Message}");
+}
+// Sempre é executado mesmo tendo erro ou não.
+finally {
+    Console.WriteLine($"Chegou até aqui...");
+}
+*/
+
+/*
 string dataString = "2024-12-14 19:41";
 
 // Formato para evitar o encerramento do programa, caso os dados da data seja passado de forma incorreta.
@@ -23,6 +69,8 @@ WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
 WriteLine(data.ToShortTimeString());
 WriteLine(data.ToShortDateString());
 WriteLine(data);
+*/
+
 /*
 // Uma forma de usar a cultura do país em todo o sistema.
 CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
