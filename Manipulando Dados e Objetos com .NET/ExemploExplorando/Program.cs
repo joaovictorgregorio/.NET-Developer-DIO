@@ -1,10 +1,73 @@
 ﻿using System.Collections;
 using System.Globalization;
+using System.Reflection.Metadata;
 using System.Security.AccessControl;
 using ExemploExplorando.Models;
 
 Console.Clear();
 
+/* (Tupla em métodos) até ...... */
+
+LeituraArquivo arquivo = new LeituraArquivo();
+
+// O método vai retornar uma tupla, por isso tantas declarações de variáveis aqui no var.
+var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+if (sucesso) {
+    Console.WriteLine($"Quantidade de linhas do arquivo: {quantidadeLinhas}");
+    foreach(string linha in linhasArquivo) {
+        Console.WriteLine(linha);
+    }
+}
+else {
+    Console.WriteLine("Não foi possível ler o arquivo");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* (Introdução) até (Outra sintaxe da tupla)
+
+// Declaração de uma Tupla, está é a melhor forma. Pelo fato de poder nomear as variáveis.
+(int Id, string Nome, string Sobrenome, decimal Altura) tupla = (1, "João Victor", "Gregório da Silva", 1.85m);
+Console.ForegroundColor = ConsoleColor.DarkGreen;
+Console.WriteLine(
+    $"Id: {tupla.Id} \nNome: {tupla.Nome} \nSobrenome: {tupla.Sobrenome} \nAltura: {tupla.Altura}");
+
+Console.WriteLine("");
+Console.WriteLine("--------------------------------");
+Console.WriteLine("");
+
+// Outra forma de declarar uma tupla...
+ValueTuple<int, string, string, decimal, bool> outroExemploDeTupla = (5, "Larissa", "da Silva", 1.69m, true);
+Console.ForegroundColor = ConsoleColor.DarkCyan;
+Console.WriteLine(
+    $"Id: {outroExemploDeTupla.Item1} \nNome: {outroExemploDeTupla.Item2} \nSobrenome: {outroExemploDeTupla.Item3} \nAltura: {outroExemploDeTupla.Item4} \nBooleano: {outroExemploDeTupla.Item5}");
+
+Console.WriteLine("");
+Console.WriteLine("--------------------------------");
+Console.WriteLine("");
+
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+var maisUmExemploDeTupla = Tuple.Create(9, "Marisa", "Fernandez da Costa", 1.72m, false);
+Console.WriteLine($"Id: {maisUmExemploDeTupla.Item1} \nNome: {maisUmExemploDeTupla.Item2} \nSobrenome: {maisUmExemploDeTupla.Item3} \nAltura: {maisUmExemploDeTupla.Item4} \nBooleano: {maisUmExemploDeTupla.Item5}");
+
+(Introdução) até (Outra sintaxe da tupla) */
+
+
+
+/*
 Dictionary<string, string> estados = new Dictionary<string, string>();
 
 estados.Add("SP", "São Paulo");
@@ -36,10 +99,7 @@ if (estados.ContainsKey(chave)) {
 else {
     Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
 }
-
-
-
-
+*/
 
 
 /*
