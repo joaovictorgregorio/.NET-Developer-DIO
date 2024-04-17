@@ -1,26 +1,100 @@
-﻿using System.Globalization;
+﻿using System.Collections;
+using System.Globalization;
 using System.Security.AccessControl;
 using ExemploExplorando.Models;
 
-new ExemploExcecao().Metodo1();
+Console.Clear();
+
+Dictionary<string, string> estados = new Dictionary<string, string>();
+
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+
+foreach(var item in estados) {
+    Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");
+}
+
+Console.WriteLine("------------------");
+
+estados.Remove("BA");
+estados["SP"] = "São Paulo - valor alterado";
+
+foreach(var item in estados) {
+    Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");
+}
+
+Console.WriteLine("=====================");
+
+// Verificando se o elemento existe no Dictionary. 
+string chave = "MG";
+Console.WriteLine($"Verificando o elemento: {chave}");
+
+if (estados.ContainsKey(chave)) {
+    Console.WriteLine($"Valor existente: {chave}");
+}
+else {
+    Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+}
 
 
 
 
 
 
+/*
+Stack<int> pilha = new Stack<int>();
 
+// Irá agrupar como uma piha, um encima do outro.
+pilha.Push(1);
+pilha.Push(2);
+pilha.Push(3);
+pilha.Push(4);
+pilha.Push(5);
 
+foreach(int item in pilha) {
+    Thread.Sleep(500);
+    Console.ForegroundColor = ConsoleColor.Cyan;
+    Console.WriteLine(item);
+}
 
+// Método Pop(), irá remover o elemento do topo da pilha.
+Console.WriteLine($"Removendo elemento do topo: {pilha.Pop()}");
 
+// Adiciona o elemento ao topo da pilha.
+pilha.Push(199);
 
+foreach(int item in pilha) {
+    Thread.Sleep(500);
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine(item);
+}
+*/
 
+/*
+Queue<int> fila = new Queue<int>();
 
+fila.Enqueue(2);
+fila.Enqueue(4);
+fila.Enqueue(6);
+fila.Enqueue(8);
+fila.Enqueue(10);
 
+Console.Clear();
 
+foreach(int item in fila) {
+    Console.WriteLine(item);
+}
 
+Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+fila.Enqueue(12);
 
+foreach(int item in fila) {
+    Console.WriteLine(item);
+}
+/*
 
+// new ExemploExcecao().Metodo1();
 
 /*
 // Try = tente fazer alguma coisa.

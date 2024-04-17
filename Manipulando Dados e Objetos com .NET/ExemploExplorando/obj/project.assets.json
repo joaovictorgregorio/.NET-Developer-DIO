@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Manipulando Dados e Objetos com .NET\\ExemploExplorando\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Manipulando Dados e Objetos com .NET\\ExemploExplorando\\ExemploExplorando.csproj",
       "packagesPath": "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploExplorando\\obj\\",
+      "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Manipulando Dados e Objetos com .NET\\ExemploExplorando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao Victor Gregorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
