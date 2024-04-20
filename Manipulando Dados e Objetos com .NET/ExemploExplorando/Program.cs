@@ -6,35 +6,61 @@ using ExemploExplorando.Models;
 
 Console.Clear();
 
-/* (Tupla em métodos) até ...... */
+/* (Descartes) até (IF Ternário)
+
+int numero = 15;
+bool ehPar = false;
+
+// IF Ternário.
+ehPar = numero % 2 == 0;
+
+Console.ForegroundColor = ConsoleColor.DarkGreen; 
+Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
+
+if (numero % 2 == 0)
+{
+    Console.WriteLine($"O número {numero} é par");
+}
+else
+{
+    Console.WriteLine($"O número {numero} é impar");
+}
+
+// (Descartes)
+
+Pessoa p1 = new Pessoa("Joao Victor", "Gregorio");
+
+// Chamando o desconstrutor.
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"{nome} {sobrenome}");
+
+(Descartes) até (IF Ternário) */
+
+
+
+/* (Tupla em métodos) até (Descartes) 
+
 
 LeituraArquivo arquivo = new LeituraArquivo();
 
-// O método vai retornar uma tupla, por isso tantas declarações de variáveis aqui no var.
-var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+// O método vai retornar uma tupla, por isso tantas declarações de variáveis aqui no var. Underline descarta a variável, está retornando, porém não está sendo usada.
+var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
 
-if (sucesso) {
-    Console.WriteLine($"Quantidade de linhas do arquivo: {quantidadeLinhas}");
-    foreach(string linha in linhasArquivo) {
+if (sucesso)
+{
+    // Console.WriteLine($"Quantidade de linhas do arquivo: {quantidadeLinhas}");
+    foreach (string linha in linhasArquivo)
+    {
         Console.WriteLine(linha);
     }
 }
-else {
+else
+{
     Console.WriteLine("Não foi possível ler o arquivo");
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
+(Tupla em métodos) até (Descartes) */
 
 
 /* (Introdução) até (Outra sintaxe da tupla)
