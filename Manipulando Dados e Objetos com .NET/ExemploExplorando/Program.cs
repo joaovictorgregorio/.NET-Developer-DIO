@@ -1,10 +1,24 @@
 ﻿using System.Collections;
 using System.Globalization;
 using System.Reflection.Metadata;
+using System.Runtime.Serialization;
 using System.Security.AccessControl;
+using System.Xml;
 using ExemploExplorando.Models;
+using Newtonsoft.Json;
 
 Console.Clear();
+
+Venda v1 = new Venda(1, "Material de escritório", 25.00M);
+Venda v2 = new Venda(2, "Produtos de limpeza", 40.55m);
+
+string serializado = JsonConvert.SerializeObject(v1);
+
+string novaSerializacao = JsonConvert.SerializeObject(v2); 
+
+Console.WriteLine(serializado);
+Console.WriteLine(novaSerializacao);
+
 
 /* (Descartes) até (IF Ternário)
 

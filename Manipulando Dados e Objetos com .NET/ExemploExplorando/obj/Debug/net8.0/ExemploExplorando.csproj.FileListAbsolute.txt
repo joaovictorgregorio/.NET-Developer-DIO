@@ -28,3 +28,6 @@ C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Manipulando Dados e Objetos com .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Manipulando Dados e Objetos com .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Manipulando Dados e Objetos com .NET\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Manipulando Dados e Objetos com .NET\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Manipulando Dados e Objetos com .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Manipulando Dados e Objetos com .NET\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date
