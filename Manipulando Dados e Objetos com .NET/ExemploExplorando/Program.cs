@@ -3,22 +3,47 @@ using System.Globalization;
 using System.Reflection.Metadata;
 using System.Runtime.Serialization;
 using System.Security.AccessControl;
-using System.Xml;
 using ExemploExplorando.Models;
 using Newtonsoft.Json;
 
 Console.Clear();
 
-Venda v1 = new Venda(1, "Material de escritório", 25.00M);
-Venda v2 = new Venda(2, "Produtos de limpeza", 40.55m);
+/* (Deserializando um objeto) */
 
-string serializado = JsonConvert.SerializeObject(v1);
+// Está lendo o arquivo enviado.
+string conteudoArquivo = File.ReadAllText("./Arquivos/vendas.json");
 
-string novaSerializacao = JsonConvert.SerializeObject(v2); 
+// Está sendo feito à deserializando o objeto.
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// Lendo todos os dados da lista.
+foreach (Venda venda in listaVenda)
+{
+    Console.WriteLine(
+        $"\nId: {venda.Id}, \nProduto: {venda.Produto}, \nPreco: {venda.Preco}, \nData: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+}
+
+
+/* (Serialização de arquivo)
+// ISO 8601 fornece um padrão globalmente reconhecido e amplamente utilizado para representar datas e horários de forma consistente e precisa em sistemas e documentos. Exemplo: "DataVenda": "2024-04-22T16:13:44.4338566-03:00".
+DateTime dataAtual = DateTime.Now;
+
+List<Venda> listaVendas = new List<Venda>();
+
+Venda v1 = new Venda(1, "Material de escritório", 25.00M, dataAtual);
+Venda v2 = new Venda(2, "Licença de Software", 105.50M, dataAtual);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+// Acontece a serialização.
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+// Cria o arquivo JSON com os dados serializados.
+File.WriteAllText("./Arquivos/vendas.json", serializado);
 
 Console.WriteLine(serializado);
-Console.WriteLine(novaSerializacao);
-
+(Serialização de arquivo) */
 
 /* (Descartes) até (IF Ternário)
 
