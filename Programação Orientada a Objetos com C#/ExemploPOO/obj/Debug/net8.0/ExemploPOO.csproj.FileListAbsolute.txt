@@ -1,0 +1,15 @@
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Programação Orientada a Objetos com C#\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
