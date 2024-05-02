@@ -16,7 +16,7 @@ namespace ExemploPOO.Models
 
         }
         public decimal Salario { get; set; }
-        public sealed override void Apresentar()
+        public override void Apresentar()
         {
             Console.WriteLine(
                 $"Olá, meu nome é {Nome} eu tenho {Idade} anos e meu salario é de {Salario.ToString("C")}."

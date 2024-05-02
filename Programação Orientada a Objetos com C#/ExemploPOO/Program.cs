@@ -1,6 +1,11 @@
 ﻿using ExemploPOO.Models;
 
 Console.Clear();
+
+Calculadora calcular = new Calculadora();
+Console.WriteLine(calcular.Somar(4,5));
+
+
 /*
 Aluno aluno = new Aluno("Ismael");
 aluno.Idade = 25;
@@ -14,6 +19,7 @@ professor.Salario = 2500;
 professor.Apresentar();
 */
 
+/*
 Corrente c = new Corrente();
 c.Creditar(1000);
 c.ExibirSaldo();
@@ -24,8 +30,9 @@ a1.Apresentar();
 
 Professor prof1 = new Professor();
 
-
-
+Computador computador = new Computador();
+Console.WriteLine(computador.ToString());
+*/
 
 /*
 Pessoa pessoa1 = new Pessoa();
