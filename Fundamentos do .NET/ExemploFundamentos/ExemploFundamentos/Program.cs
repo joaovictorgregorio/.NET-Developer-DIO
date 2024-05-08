@@ -1,6 +1,10 @@
-﻿using System.Reflection.Metadata;
+﻿using System.IO.Compression;
+using System.Reflection.Metadata;
+using System.Security.Cryptography.X509Certificates;
 using ExemploFundamentos.Common.Models;
 
+var x = "Hello, World";
+Console.WriteLine(x.Split("o"));
 
 /* TRABALHANDO COM LISTAS
 

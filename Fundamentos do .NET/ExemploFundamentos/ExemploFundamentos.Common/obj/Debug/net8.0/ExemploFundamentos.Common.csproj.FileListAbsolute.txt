@@ -10,3 +10,15 @@ C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.deps.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.sourcelink.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\refint\ExemploFundamentos.Common.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net8.0\ref\ExemploFundamentos.Common.dll

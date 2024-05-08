@@ -17,3 +17,22 @@ C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.Common.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploF.DE0ABCBC.Up2Date
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\Joao Victor Gregorio\Documents\Curso .NET Developer DIO\.NET-Developer-DIO\Fundamentos do .NET\ExemploFundamentos\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll

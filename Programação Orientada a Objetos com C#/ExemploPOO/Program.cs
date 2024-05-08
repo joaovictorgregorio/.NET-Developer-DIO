@@ -1,9 +1,10 @@
 ﻿using ExemploPOO.Models;
 
-Console.Clear();
+using System;
+using System.ComponentModel.DataAnnotations;
 
-Calculadora calcular = new Calculadora();
-Console.WriteLine(calcular.Somar(4,5));
+using System;
+using System.Data;
 
 
 /*

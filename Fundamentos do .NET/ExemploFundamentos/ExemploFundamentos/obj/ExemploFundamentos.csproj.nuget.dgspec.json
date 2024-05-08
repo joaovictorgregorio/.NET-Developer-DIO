@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joao Victor Gregorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joao Victor Gregorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-                "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+              "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+                "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Curso .NET Developer DIO\\.NET-Developer-DIO\\Fundamentos do .NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
               }
             }
           }
