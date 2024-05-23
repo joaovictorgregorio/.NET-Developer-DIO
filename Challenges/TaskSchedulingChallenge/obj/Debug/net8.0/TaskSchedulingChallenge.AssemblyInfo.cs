@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskSchedulingChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bfbebe71d6753ccb136e19703dbbbe24b8825d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9432aefd113e535927603dfdf2d04e139c9c965c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskSchedulingChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskSchedulingChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
