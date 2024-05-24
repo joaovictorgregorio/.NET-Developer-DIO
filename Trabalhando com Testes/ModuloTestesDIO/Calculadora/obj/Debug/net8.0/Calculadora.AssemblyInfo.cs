@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TaskSchedulingChallenge")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dad57d779d8dd382df9a5a250c540f232ad0da9")]
-[assembly: System.Reflection.AssemblyProductAttribute("TaskSchedulingChallenge")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TaskSchedulingChallenge")]
+[assembly: System.Reflection.AssemblyProductAttribute("Calculadora")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Calculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
