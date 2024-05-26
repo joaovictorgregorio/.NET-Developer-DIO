@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Desenvolvimento Orientado a Testes\\ModuloTestesDIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
+      "projectUniqueName": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Testes\\ModuloTestesDIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
       "projectName": "CalculadoraTestes",
-      "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Desenvolvimento Orientado a Testes\\ModuloTestesDIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
+      "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Testes\\ModuloTestesDIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
       "packagesPath": "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Desenvolvimento Orientado a Testes\\ModuloTestesDIO\\CalculadoraTestes\\obj\\",
+      "outputPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Testes\\ModuloTestesDIO\\CalculadoraTestes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao Victor Gregorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Desenvolvimento Orientado a Testes\\ModuloTestesDIO\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Desenvolvimento Orientado a Testes\\ModuloTestesDIO\\Calculadora\\Calculadora.csproj"
+            "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Testes\\ModuloTestesDIO\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Testes\\ModuloTestesDIO\\Calculadora\\Calculadora.csproj"
             }
           }
         }

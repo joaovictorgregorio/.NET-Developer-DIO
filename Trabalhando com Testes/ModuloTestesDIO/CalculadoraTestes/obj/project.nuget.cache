@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FAXRhIDH84s=",
+  "dgSpecHash": "XDDPhMZ39Zs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Desenvolvimento Orientado a Testes\\ModuloTestesDIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
+  "projectFilePath": "C:\\Users\\Joao Victor Gregorio\\Documents\\Bootcamp Coding The Future Avanade .NET Developer - DIO\\.NET-Developer-DIO\\Trabalhando com Testes\\ModuloTestesDIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Joao Victor Gregorio\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
