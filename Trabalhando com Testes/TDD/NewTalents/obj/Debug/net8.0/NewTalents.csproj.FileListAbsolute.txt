@@ -1,0 +1,15 @@
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.sourcelink.json
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Users\Joao Victor Gregorio\Documents\Bootcamp Coding The Future Avanade .NET Developer - DIO\.NET-Developer-DIO\Trabalhando com Testes\TDD\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
